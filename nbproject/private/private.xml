@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/cinema_reservation/src/cinema_reservation/cancelledstate.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/cinema_reservation/src/cinema_reservation/iteamstate.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/cinema_reservation/src/cinema_reservation/shippedstate.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/cinema_reservation/src/cinema_reservation/Customer.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/cinema_reservation/src/cinema_reservation/iteam.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/cinema_reservation/src/cinema_reservation/proccessingstate.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/cinema_reservation/src/cinema_reservation/pendingstate.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/cinema_reservation/src/cinema_reservation/Movie.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/cinema_reservation/src/cinema_reservation/Observer.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/cinema_reservation/src/cinema_reservation/MovieSubjet.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/cinema_reservation/src/cinema_reservation/Cinema_reservation.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/cinema_reservation/src/cinema_reservation/Ticket.java</file>
+        </group>
+    </open-files>
+</project-private>
